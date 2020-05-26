@@ -1,0 +1,23 @@
+<body>
+  <div>
+    <h1> Hey! My name is Katelyn! </h1>
+    <h2> This is a list of my friends </h2>
+    <ol>
+      <li> Dan </li>
+      <li> Shannon </li>
+      <li> Anika </li>
+      <li> Nick </li>
+  </div>
+  <div>
+    <h2> My Grocery List </h2>
+    <ul>
+      <li> Apples </li>
+      <li> Peanut Butter </li>
+      <li> Dill Pickle Chips </li>
+      <li> Pop </li>
+      <li> Tomatoes </li>
+    </ul>
+    <p> Hey, don't judge me, I'm trying to balance my diet! </p>
+    <p> <a href=https://www.coolmathgames.com/>My Very Own Website!</a> </p>
+  </div>
+</body>
